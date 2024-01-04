@@ -9,6 +9,4 @@ This webpage, created by me for a inter school compition in St. John High School
 - **HTML:** ![HTML](https://img.shields.io/badge/Built%20with-HTML-orange?style=flat-square&logo=html5)
 - **Hosting:** ![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=flat-square&logo=vercel)
 
-Made with ❤️ by passionate students from St. John High School, Chandigarh.
-
 [![Made with love](https://img.shields.io/badge/Made%20with-Love-red.svg)](https://coalasce-and-visitavity.vercel.app/)
