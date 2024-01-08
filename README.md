@@ -3,7 +3,7 @@
 [Visit the deployed site here](https://coalasce-and-visitavity.vercel.app/)
 
 ## Summary
-This webpage, created by me for a inter school compition in St. John High School, Chandigarh.It was crafted for a tech competition. It delves into the efficacy of algorithms in modern medical research and explores various applications of AI in medical diagnostics.
+This webpage, created by me for a inter school compition in St. John High School, Chandigarh.It was crafted for a website designing competition. It delves into the efficacy of algorithms in modern medical research and explores various applications of AI in medical diagnostics.
 
 ## Technology Used
 - **HTML:** ![HTML](https://img.shields.io/badge/Built%20with-HTML-orange?style=flat-square&logo=html5)
